@@ -55,7 +55,7 @@
                         <input type="text" class="form-control" id="notelepon" name="notelepon" value="{{ old('notelepon') }}">
                     </div>
 
-                    <button type="submit" class="btn btn-primary mb-2">Daftar</button>
+                    <button type="submit" class="btn btn-primary mb-2">Simpan</button>
                 </form>
             </div>
         </div>
